@@ -2,9 +2,10 @@
 Я Дима, на данный момент студент Московского Политеха.  
 Параллельно с учебой в вузе я изучаю data-science и хочу работать в этой сфере.  
 Я уже успел разработать несколько ML-систем:
-- [Спам фильтр c помощью XGBoost + Sentence Transformers](https://github.com/w0drs/SpamDetect)
-- [Система предсказания CS2 faceat матчей](https://github.com/w0drs/CS2-Predict)
+- [ML-система кредитного скоринга](https://github.com/w0drs/CreditScoringSystem)
 - [Система рекомендаций аниме](https://github.com/w0drs/AnimeRecommendation)
+- [Система предсказания CS2 faceat матчей](https://github.com/w0drs/CS2-Predict)
+- [Спам фильтр c помощью XGBoost + Sentence Transformers](https://github.com/w0drs/SpamDetect)
 
 На этом не останавливаюсь. Хочу реализовать большое количество идей.  
 Мои хобби: рисование, создание видео, просмотр аниме, чтение манги, разработка игр. В свободное время хожу в зал.
